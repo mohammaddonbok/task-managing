@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build/output
+.next/
+out/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+*.log
+logs/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Cache directories
+.cache/
+
+# Debug files
+*.pid
+*.seed
+
+# Dependency directories
+jspm_packages/

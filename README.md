@@ -5,6 +5,13 @@
 
 The Task Manager is a user-friendly web application designed to simplify task management. It empowers users to efficiently create, edit, delete, and mark tasks as completed. With an intuitive and clean user interface, the platform provides seamless control over tasks and offers a comprehensive table view to track completed tasks. Whether for personal or professional use, the Task Manager ensures an organized and productive workflow.
 
+
+## Deployment
+   - I used (https://vercel.com) to deploy frontend to view live project visit this link (https://task-manage-seven.vercel.app/)
+   - I used (render.com) to deploy backend (https://task-managing-1tff.onrender.com)* somtimes the service will take maximum 1 minute to start this is from render service policy
+     - We run free services by letting them sleep when there’s no traffic — allowing us to offer our powerful, scalable platform free for you to try. However, each time your service starts again, it can take up to a minute it to get back online.
+   - I used mongoDB to deploy database on
+
 ## Technology used
 
 - Node.js Express as backend

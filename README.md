@@ -85,5 +85,6 @@ The Task Manager is a user-friendly web application designed to simplify task 
      3. Create Reusable Components like AddEditComponent to handle both features in one component and reduce the code redundancy  
      4. Using alerts like Toaster MUI component to alert the user with sucess and failure requests
      5. Follow the MVC structure in the backend to understand the code easily controller,service,model and repository files
+     6. Don't open this Website on mobile since this version is not responsive design 
      
     
